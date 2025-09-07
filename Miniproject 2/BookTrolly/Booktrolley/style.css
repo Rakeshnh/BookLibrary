@@ -1,0 +1,116 @@
+body{
+  background-color: rgba(231, 218, 197, 0.611);
+}
+
+h2 {
+  text-align: center;
+  /* border: 2px solid red; */
+  height: 20px;
+  width: 1450px;
+  margin: -170px 90px 0px 10px;
+  padding: 23px 10px 35px 10px;
+  position: fixed;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  border-radius: 15px;
+  background: url(https://wallpaperaccess.com/full/5668713.jpg);
+  background-repeat: no-repeat;
+  background-size: 1500px;
+}
+.search {
+  position: fixed;
+  border: 2px solid rgb(0, 0, 0);
+  text-align: center;
+  justify-content: center;
+  margin: -60px 560px 0px 600px;
+  padding: 10px 80px 10px 80px;
+  border-radius: 15px;
+  background-color: #f5f5f5;
+}
+div {
+  position: fixed;
+  border: 0px solid rgb(0, 0, 0);
+  height: 610px;
+  text-align: left;
+  margin: -60px 10px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(202, 193, 181);
+  border-radius:12px;
+}
+.Homepage {
+  text-align: center;
+  border: 2px solid rgb(202, 196, 196);
+  padding: 550px 0px 20px 0px;
+  height: 0px;
+  width: 1250px;
+  margin: 170px 150px 200px 213px;
+  background:url(../Booktrolley/images/Homepage.avif);
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: 1250px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: gainsboro;
+  border-radius: 20px;
+  
+}
+span {
+  font-family: "Times New Roman", Times, serif;
+  height: 0px;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin: -300px 0px 0px 0px ;
+}
+h3 {
+  font-size: 40px;
+  /* border: 2px solid grey; */
+  margin: 0px 20px 10px -20px;
+}
+.unorder {
+  font-size: 20px;
+  word-spacing: 2px;
+  line-height: 40px;
+}
+.home{
+  text-align: center;
+  font-size: 18px;
+  border-radius: 10px;
+  margin: 0px 10px 0px 10px ;
+  padding: 10px 35px 10px 38px;
+  border: none;
+}
+.Category{
+  text-align: center;
+  font-size: 18px;
+  border-radius: 10px;
+  margin: 0px 10px 0px 10px ;
+  padding: 10px 25px 10px 25px;
+  border: none;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+img{
+  width: 200px;
+  height: 350px;
+}
+
+.marquee{
+  display: flex;
+  flex-wrap: wrap;
+  margin: -170px 40px 0px 216px;
+  
+}
+.marquee:hover{
+  transform: scale(1.5);
+}

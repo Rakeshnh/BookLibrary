@@ -1,0 +1,92 @@
+BookTrolley – Online Book Browsing Website
+
+
+Project Overview:
+BookTrolley is a fully designed and functional website created using HTML, CSS, and JavaScript. The website serves as a digital platform where users can explore various categories of books, view book covers, and access external sources to read more about them. It simulates a real-world online bookshelf experience with interactive elements and smooth navigation.
+
+
+
+
+Objective:
+The main goal of this project is to provide an easy-to-use, dynamic web interface for browsing books by category. Users can:
+
+View books by genres such as Fantasy, Poetry, Drama, Graphic Novels, and Science.
+
+Search for book categories via the search bar and get redirected accordingly.
+
+View a scrolling list of featured book covers at the bottom of the homepage.
+
+Click on any book cover to navigate to a detailed page (like Wikipedia or official resources) containing the story or summary of the book.
+
+
+
+
+Technologies Used:
+HTML – Structure and layout of the pages
+
+CSS – Styling, layout design, and responsiveness
+
+JavaScript – Interactive behavior (search functionality, category toggle, dynamic redirection)
+
+
+
+
+Features:
+Responsive Navigation:
+Users can browse through multiple book categories like:
+
+Fantasy
+
+Poetry
+
+Drama
+
+Graphic Novel
+
+Science
+
+Interactive Search Functionality:
+
+Users can type the category or book-related keyword in the search bar and press Enter to be navigated directly to the respective section.
+
+If the input does not match any existing category, a message "I am not having that type of book." is displayed on the page (instead of using disruptive alert popups).
+
+Category-Based Page Structure:
+Each category leads to a dedicated page that contains:
+
+A curated list of book cover images.
+
+Each image is clickable and redirects to an external site (Wikipedia or official resources) containing the book's summary or detailed information.
+
+Auto-Collapse Category List:
+A toggleable Category button reveals or hides category links for better screen space management.
+
+Marquee Book Showcase:
+A horizontally scrolling marquee at the bottom showcases featured books, enhancing visual appeal and interactivity.
+
+
+
+
+
+How to Use:
+Open Homepage.html in any modern browser.
+
+Use the Category button or sidebar to navigate between genres.
+
+Click on any book image to go to the book’s story or summary page.
+
+Use the Search Bar to type a genre and press Enter:
+
+If found → you'll be redirected to the genre’s page.
+
+If not → the message “I am not having that type of book.” will appear on the screen.
+
+
+
+
+Project Highlights:
+Designed and developed using only frontend technologies (HTML, CSS, JS).
+
+Simple, intuitive interface with dynamic search capabilities.
+
+Engaging user experience with clickable visuals and smooth navigation.
